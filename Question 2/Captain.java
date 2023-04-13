@@ -6,9 +6,6 @@ public class Captain {
 	//-----------------------------------------------------
 	// Title: Question 2
 	// Author: Basme Zantout - Zeynep Sude Bal
-	// ID: 99227947762 - 
-	// Section: 1
-	// Assignment: 3
 	// Description: This is the class that has the Captains'
 	//              information attributes and the constructor
 	//              the creates a new Captain object
