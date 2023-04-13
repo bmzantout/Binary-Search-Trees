@@ -7,9 +7,6 @@ public class BinarySearchTree_Captain {
 	//-----------------------------------------------------
 	// Title: Question 2
 	// Author: Basme Zantout - Zeynep Sude Bal
-	// ID: 99227947762 - 
-	// Section: 1
-	// Assignment: 3
 	// Description: This is the class that holds the Captains'
 	//              information using a Binary Search Tree 
         //              data structure
@@ -215,7 +212,7 @@ public class BinarySearchTree_Captain {
 	//----------------------------------------------------------
 
 		if (found)     System.out.println("Delete Captain: The captain " + deleted_chauffeur.getName() + " left CCR");
-		else           System.out.println("Delete Captain: Couldn’t find any captain with ID number " + key);
+		else           System.out.println("Delete Captain: Couldnâ€™t find any captain with ID number " + key);
 	}
 	
 	
