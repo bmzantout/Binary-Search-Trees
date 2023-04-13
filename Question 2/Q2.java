@@ -10,9 +10,6 @@ public class Q2 {
 	//-----------------------------------------------------
 	// Title: Question 2
 	// Author: Basme Zantout - Zeynep Sude Bal
-	// ID: 99227947762 - 
-	// Section: 1
-	// Assignment: 3
 	// Description: This is the main class for Question 2 which depends
 	//              on the following classes: 
 	//              "BinarySearchTree_Captain.java", "Node.java",
