@@ -5,9 +5,6 @@ public class TreeNode {
 	//-----------------------------------------------------
 	// Title: Question 1
 	// Author: Basme Zantout - Zeynep Sude Bal
-	// ID: 99227947762 - 22399623714
-	// Section: 1
-	// Assignment: 3
 	// Description: This is the class that holds the Products'
 	//              information using a Binary Search Tree 
         //              data structure
