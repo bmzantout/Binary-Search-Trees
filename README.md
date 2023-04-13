@@ -1,5 +1,5 @@
 # Binary-Search-Trees
-This Java project is a group project implemented in collaboration with my colleague Zeynep Sude Bal.
+A project to have hands-on practice on the implementation of Binary Search Trees structure.
 
 ## Data Structures and Algorithms Project
 ## Introduction
@@ -21,3 +21,6 @@ To get started with this project, you can read the tasks of the project written 
 
 If you would like to contribute to this project, feel free to fork the repository and submit a pull request. Please make sure to include tests for any new functionality, and ensure that all existing tests pass before submitting your changes.
 
+# Authors
+
+This Java project is a group project implemented in collaboration with my colleague Zeynep Sude Bal.
