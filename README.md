@@ -1,5 +1,5 @@
 # Binary Search Trees
-A project to have hands-on practice on the implementation of Binary Search Trees structure.
+A project that provides hands-on practice on the implementation of Binary Search Trees structure.
 
 ## Data Structures and Algorithms Project
 ## Introduction
