@@ -6,9 +6,6 @@ public class Node {
 	//-----------------------------------------------------
 	// Title: Question 2
 	// Author: Basme Zantout - Zeynep Sude Bal
-	// ID: 99227947762 - 
-	// Section: 1
-	// Assignment: 3
 	// Description: This is the class used to create Nodes for 
 	//              a Binary Search tree and holds the key and 
         //              information of the Captains. It has the 
