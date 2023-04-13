@@ -3,3 +3,4 @@ This Java Project implements a binary search tree (BST) data structure. It inclu
 
 ## Data Structures and Algorithms Project
 
+This Java project is a group project implemented in collaboration with my colleague.
