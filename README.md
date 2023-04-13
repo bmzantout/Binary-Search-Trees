@@ -1,4 +1,4 @@
-# Binary-Search-Trees
+# Binary Search Trees
 A project to have hands-on practice on the implementation of Binary Search Trees structure.
 
 ## Data Structures and Algorithms Project
